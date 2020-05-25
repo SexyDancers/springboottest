@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: suwatomasaki
+Build-Jdk: 14.0.1
+Implementation-Title: iota-client-example
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://www.example.com
+Created-By: Maven Integration for Eclipse
+
